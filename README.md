@@ -24,12 +24,12 @@ This project is a high-fidelity, interactive web-based simulator designed to vis
 The visualizer is built using a custom rendering engine on the **HTML5 Canvas API**. The core logic handles state-memory for differential schemes (tracking previous voltage levels) and pulse-shaping for return-to-zero (RZ) transitions.
 
 ## 🌐 Live Demo
-Access the tool here: `https://MohammedS2lah.github.io/line-coding-visualizer/`
+Access the tool here: [https://MohammedS2lah.github.io/Interactive-Line-Coding-Visualizer/Line_Coding_Simulator.html](https://MohammedS2lah.github.io/Interactive-Line-Coding-Visualizer/Line_Coding_Simulator.html)
 
 ## 🎓 Citation
 If you use this simulator in your classroom, lab, or research, please cite it as:
 > Salah, M. (2026). Interactive Line Coding Visualizer. 
-> Available at: https://MohammedS2lah.github.io/line-coding-visualizer/
+> Available at: https://MohammedS2lah.github.io/Interactive-Line-Coding-Visualizer/Line_Coding_Simulator.html
 
 ---
 © 2026 Mohammed Salah. All rights reserved.
