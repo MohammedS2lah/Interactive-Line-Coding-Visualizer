@@ -29,7 +29,7 @@ Access the tool here: `https://MohammedS2lah.github.io/line-coding-visualizer/`
 ## 🎓 Citation
 If you use this simulator in your classroom, lab, or research, please cite it as:
 > Salah, M. (2026). Interactive Line Coding Visualizer. 
-> Available at: https://[your-username].github.io/line-coding-visualizer/
+> Available at: https://MohammedS2lah.github.io/line-coding-visualizer/
 
 ---
 © 2026 Mohammed Salah. All rights reserved.
